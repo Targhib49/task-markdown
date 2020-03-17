@@ -61,6 +61,6 @@ Bagian ini tidak berhubungan secara konten dengan bagian sebelumnya. Bagian ini 
 ```
 
 sumber : <br>
-https://id.wikipedia.org/wiki/Mobil
-https://showroommobil.co.id/info-mobil/jenis-jenis-mobil/
+https://id.wikipedia.org/wiki/Mobil<br>
+https://showroommobil.co.id/info-mobil/jenis-jenis-mobil/<br>
 https://www.harjasaputra.com/opini/iptek/perbandingan-premium-pertamax-pertamax-plus-dan-shell-v-power.html
