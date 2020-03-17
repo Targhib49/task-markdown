@@ -5,6 +5,7 @@ Mobil merupakan kependekan dari otomobil yang berasal dari bahasa Yunani, 'autos
 
 Contoh mobil:<br>
 ![mobil](images/car.jpeg)
+![mobil2](https://i617.photobucket.com/albums/tt258/hitmenot/cars/cars.jpg)
 
 ## B. Bagian-bagian utama
 - [Mesin](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.mobilmo.com%2F2018%2F01%2F30%2Fcara-kerja-mesin-mob-4fb4.png&imgrefurl=https%3A%2F%2Fmobilmo.com%2Fperawatan-mobil%2Fbegini-cara-kerja-mesin-mobil-sehingga-dapat-berjalan-aid2155&tbnid=ZqLMmNGqdaEPMM&vet=12ahUKEwjWobSR06DoAhVRBrcAHdXLDcAQMygAegUIARCJAg..i&docid=nWcTMHB0XAyjLM&w=730&h=617&q=mesin%20mobil&safe=strict&ved=2ahUKEwjWobSR06DoAhVRBrcAHdXLDcAQMygAegUIARCJAg)
