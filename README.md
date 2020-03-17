@@ -41,6 +41,26 @@ Tipe mobil lainnya adalah tipe mobil sedan. Mobil sedan ini didesain dengan bodi
 
 Selain itu, masih banyak lagi tipe-tipe mobil lainnya yang belum termasuk kedalam list di atas. (_Baca juga : [10 jenis-jenis mobil dari ciri, contoh, karakter, dan gambar](https://www.otoflik.com/jenis-jenis-mobil/)_ )
 
+## D. Perbandingan bahan bakar mobil
+|Detail |Premium|Pertamax|Pertamax Plus|Shell V-Power   |
+|---|---|---|---|---|
+|Oktan|88|92|95|95|
+|Rasio konsumsi|1:6|1:8:6|1:9:4|1:10:1|
+|Overall|Fair|Good|Very Good|Excellent|
+
+## E. Contoh Blockquotes
+Bagian ini tidak berhubungan secara konten dengan bagian sebelumnya. Bagian ini dibuat untuk melengkapi tugas saja
+```html
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+```
+
 sumber : <br>
 https://id.wikipedia.org/wiki/Mobil
 https://showroommobil.co.id/info-mobil/jenis-jenis-mobil/
+https://www.harjasaputra.com/opini/iptek/perbandingan-premium-pertamax-pertamax-plus-dan-shell-v-power.html
