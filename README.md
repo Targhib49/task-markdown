@@ -3,7 +3,7 @@
 **Mobil** (Bahasa Belanda: _automobiel_) adalah kendaraan darat yang digerakkan oleh tenaga mesin, beroda empat atau lebih (selalu genap), biasanya menggunakan bahan bakar minyak (bensin atau solar) untuk menghidupkan mesinnya.
 Mobil merupakan kependekan dari otomobil yang berasal dari bahasa Yunani, 'autos' (sendiri) dan bahasa Latin, 'movere' (bergerak).
 
-Berikut adalah contoh mobil:
+Contoh mobil:<br>
 ![mobil](images/car.jpeg)
 
 ## B. Bagian-bagian utama
@@ -41,4 +41,6 @@ Tipe mobil lainnya adalah tipe mobil sedan. Mobil sedan ini didesain dengan bodi
 
 Selain itu, masih banyak lagi tipe-tipe mobil lainnya yang belum termasuk kedalam list di atas. (_Baca juga : [10 jenis-jenis mobil dari ciri, contoh, karakter, dan gambar](https://www.otoflik.com/jenis-jenis-mobil/)_ )
 
-sumber : https://id.wikipedia.org/wiki/Mobil
+sumber : <br>
+https://id.wikipedia.org/wiki/Mobil
+https://showroommobil.co.id/info-mobil/jenis-jenis-mobil/
